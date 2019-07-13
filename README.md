@@ -69,7 +69,7 @@ var pattern = new UrlPattern(
 pattern.match('http://mail.google.com/mail');
 ```
 
-```
+```sh
 npm install url-pattern
 bower install url-pattern
 ```
